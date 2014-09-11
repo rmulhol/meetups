@@ -1,10 +1,10 @@
-ChicagoRuby Hack Night CandyLand Challenge
+**ChicagoRuby Hack Night CandyLand Challenge**
 
-========================
+------------------------
 
 We were provided the following instructions:
 
-------------------------
+========================
 
 Candyland Specs
 
@@ -18,6 +18,6 @@ Candyland Specs
 
 5. A turn is defined as choosing the next card and then going to the next step on the course that matches.  
 
-v 1 one player, reports how many turns to get to the end 
-v 2 two players one wins 
-v 3 add 2 shortcuts to the course that can be taken if you land on the beginning square of the shortcut
+- v 1 one player, reports how many turns to get to the end 
+- v 2 two players one wins 
+- v 3 add 2 shortcuts to the course that can be taken if you land on the beginning square of the shortcut
