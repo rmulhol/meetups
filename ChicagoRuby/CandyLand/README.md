@@ -4,9 +4,7 @@
 
 We were provided the following instructions:
 
-========================
-
-Candyland Specs
+*Candyland Specs*
 
 1. Setup the course, a series of 100 steps.
 
