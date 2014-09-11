@@ -1,8 +1,8 @@
-**ChicagoRuby Hack Night CandyLand Challenge**
+[**ChicagoRuby Hack Night - CandyLand**](http://www.meetup.com/ChicagoRuby/events/200296872/)
 
 ------------------------
 
-We were provided the following instructions:
+We were provided with the following instructions:
 
 *Candyland Specs*
 
